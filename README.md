@@ -41,7 +41,7 @@ The `ProductPage.tsx` component features a pre-configured, asynchronous transact
 ## 📂 Architecture Structure
 All data states, component layouts, and presentational sheets follow clean lowercase modular separation of concerns. To change the inventory data display, simply open `src/data/mockProducts.ts` and swap the placeholder boilerplate parameters inside the strongly-typed array.
 
-(YouTube Demo)[https://youtu.be/Wi3Js5QI-_Q?si=OiGyVliWJk01HRT6]
+[YouTube Demo](https://youtu.be/Wi3Js5QI-_Q?si=OiGyVliWJk01HRT6)
 
 <img width="1440" height="775" alt="Screenshot 2026-10-06 at 18 20 18" src="https://github.com/user-attachments/assets/156ac105-b605-4b39-8367-97c6e467a778" />
 
