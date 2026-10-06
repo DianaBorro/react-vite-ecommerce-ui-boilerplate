@@ -1,6 +1,12 @@
 # Mobile-First React Vite eCommerce UI Template
 A premium, highly optimized, and type-safe headless storefront boilerplate built for developers who want a seamless, high-speed frontend layout canvas.
 
+Get the complete source code ZIP archive instantly on 
+- [Gumroad](https://dianaborro.gumroad.com/l/nezpwk)
+- Fiverr (Coming Soon)
+- [Payhip](https://payhip.com/b/21Pl7)
+- [Etsy](https://sunflowerycreations.etsy.com/listing/4589962589)
+
 ## 🚀 Tech Stack Included
 - **Framework Core:** React 19 + Vite
 - **Type Safety:** TypeScript
